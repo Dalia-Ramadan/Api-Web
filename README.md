@@ -30,5 +30,5 @@ The app fetches product data from an API and displays it in styled cards using *
 
 - HTML
 - CSS
-- JavaScript (Vanilla)
+- JavaScript
 - Any public product API (you can replace the API link as needed)
